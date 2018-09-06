@@ -38,5 +38,4 @@ int main()
             cout<<a[i]<<" ";
     }
     return 0;
-    //original code written by JohnyHuang-01082170004
 }
